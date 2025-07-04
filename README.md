@@ -1,4 +1,4 @@
---------------------------------------🧰 WoodworkerExpress Scrapping Engine--------------------------------------                                                                  
+--------------------------------------🧰 WoodworkerExpress Scrapping Engine --------------------------------------                                                                  
 A smart Python scraper designed to extract detailed product information and high-resolution images from WoodworkerExpress.com. This automation script uses Selenium to browse product listings, extract essential product details, capture image URLs, and store them neatly into a CSV file.
 
 ⚙️ Features:                                                                                                                                                        
